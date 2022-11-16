@@ -70,7 +70,7 @@
 
 1.3 JS, Ajax, REST, JSON, CORS (домашнее задание не предусмотрено)
 
-## Блок 2. Java EE, Java Servlets
+### Блок 2. Java EE, Java Servlets
 
 2.1 [Servlets Containers](https://github.com/netology-code/jspr-homeworks/tree/master/04_servlets)
 
